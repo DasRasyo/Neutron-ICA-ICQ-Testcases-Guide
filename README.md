@@ -90,7 +90,7 @@ WantedBy=multi-user.target
 ```
 
 ```
-cd ~/.hermes/config.toml
+cd ~/.hermes
 wget https://raw.githubusercontent.com/neutron-org/testnets/main/quark/ibc-relayer/config.toml
 nano config.toml
 ```
