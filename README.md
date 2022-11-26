@@ -181,5 +181,5 @@ We are ready to run test script. We will use our connection id again, which we c
 ./validator_test.sh  [connection-id]
 ```
 
-follow the script insturactions. in the end of the script, you will get TXs. Do not forget send them with form.!
+follow the script instructions. in the end of the script, you will get TXs. Do not forget send them with form.!
 https://docs.google.com/forms/d/1JrjHcdMhMdNJHF8U6Xr3BJbNFRJ_TZJU3eAgZj8wVRc/viewform?pli=1%5D(https://forms.gle/JN7R4dvCNj1PZhz6A&pli=1%5D(https://forms.gle/JN7R4dvCNj1PZhz6A&edit_requested=true
